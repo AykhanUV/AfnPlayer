@@ -2,9 +2,8 @@
 
 # Afn Player
 
-[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/anilbeesetti/nextplayer.svg?logo=github&label=GitHub&cacheSeconds=3600)](https://github.com/anilbeesetti/nextplayer/releases/latest)
-[![GitHub all releases](https://img.shields.io/github/downloads/anilbeesetti/nextplayer/total?logo=github&cacheSeconds=3600)](https://github.com/anilbeesetti/nextplayer/releases/latest)
-player/)
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/aykhanuv/nextplayer.svg?logo=github&label=GitHub&cacheSeconds=3600)](https://github.com/aykhanuv/afnplayer/releases/latest)
+[![GitHub all releases](https://img.shields.io/github/downloads/aykhanuv/afnplayer/total?logo=github&cacheSeconds=3600)](https://github.com/aykhanuv/afnplayer/releases/latest)
 
 Afn Player is an Android native video player written in Kotlin. It provides a simple and easy-to-use interface for users to play videos on their
 Android devices
